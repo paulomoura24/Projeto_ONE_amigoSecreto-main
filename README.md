@@ -1,7 +1,7 @@
 # SORTEADOR DE AMIGO SECRETO #
 
 Este projeto foi desenvolvido como "Challenge" para o programa ONE - Alura 
-Ele adiciona amigos a uma lista, realiza um sorteio aleatório, atualiza a interface com a lista de amigos, e até lança confetes quando alguém é sorteado.
+Ele adiciona amigos a uma lista, realiza um sorteio aleatório, atualiza a interface com a lista de amigos, e lança confetes quando alguém é sorteado.
 
 ## Tecnologias Utilizadas
 
