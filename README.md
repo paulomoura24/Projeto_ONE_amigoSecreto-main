@@ -21,7 +21,7 @@ Ele adiciona amigos a uma lista, realiza um sorteio aleatório, atualiza a inter
   - `confetti.min.js`: Arquivo da biblioteca para animação de confetes.
 
 ---
-
+## Link do Deploy no Vercel : https://projeto-one-amigo-secreto-main.vercel.app/
 
 
 
